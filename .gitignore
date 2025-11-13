@@ -1,0 +1,34 @@
+# --- System / Termux-specific cache ---
+.cache/
+.lesshst
+.viminfo
+
+# --- Sensitive keys ---
+.ssh/
+.gitconfig
+
+# --- Package manager data ---
+.npm/
+.npmrc
+
+# --- Git metadata ---
+.git/
+
+# --- Binary and temp files ---
+*.log
+*.tmp
+*.bak
+*.swp
+*.zip
+*.tar.gz
+*.tar
+*.apk
+*.img
+
+# --- Build directories ---
+build/
+dist/
+node_modules/
+__pycache__/
+*.pyc
+*.egg-info/

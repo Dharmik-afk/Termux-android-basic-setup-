@@ -1,0 +1,11 @@
+{
+  "suggest.noselect": false,
+  "diagnostic.enable": true,
+  "diagnostic.checkCurrentLine": true,
+  "coc.preferences.formatOnSaveFiletypes": ["python", "cpp", "c"],
+  "python.formatting.provider": "black",
+  "python.linting.flake8Enabled": true,
+  "clangd.path": "/data/data/com.termux/files/usr/bin/clangd",
+  "clangd.arguments": ["--background-index", "--clang-tidy"],
+  "python.analysis.typeCheckingMode": "basic"
+}
