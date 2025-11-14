@@ -2,7 +2,7 @@ Termux Android Basic Setup
 
 A personal Termux environment setup script for quickly configuring a clean development-ready environment on Android.
 This script replaces your Termux $HOME directory and installs essential packages such as clang, python3, vim, and termux-api.
-
+unfortunately neovim with lazyvim is not fully compatible with termux, there for vim is recommended 
 
 ---
 
